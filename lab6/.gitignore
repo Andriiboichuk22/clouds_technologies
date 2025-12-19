@@ -1,0 +1,6 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+az104-06-vms-parameters.json
+az104-06-vms-template.json
